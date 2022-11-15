@@ -28,7 +28,7 @@
 </table>
 
 <h1>Problem: Predict user's salary base on their skills, experience</h1>
-<h1>PROJECT DESCRIPTION</h1>
+<h1>Project Description</h1>
   <span>
     Crawl data on <a href="https://itviec.com/">IT viec</a>
    </span><br>
