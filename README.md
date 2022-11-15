@@ -38,7 +38,3 @@
   Tools: Python, Jupyter Notebook, some libraries like  Pandas, Selenium, Numpy, Matplotlib, Seaborn, Scikit-learn,...<br>
 Goal: Apply the knowledge of data science to solve real-world problems.   
   </span>
-  
-ádfasdf
-ádfasdf
-ádfasdfadsf
