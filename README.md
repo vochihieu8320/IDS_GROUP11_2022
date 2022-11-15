@@ -20,6 +20,10 @@
       <th scope="row">20127631</th>
       <td>Thái Văn Thiên</td>
     </tr>
+    <tr>
+      <th scope="row">19127395</th>
+      <td>Phan Đức Hiển</td>
+    </tr>
   </tbody>
 </table>
 
@@ -29,9 +33,12 @@
     Crawl data on <a href="https://itviec.com/">IT viec</a>
    </span><br>
   <span>
-  We will crawl data on the ITviec website. From that we will analyze the data about salary, company and skills that are needed to give a general vision of the IT career path in Viet Nam.<br>
+  We will crawl data on the ITviec website.<br>
   Language: Python.<br>
   Tools: Python, Jupyter Notebook, some libraries like  Pandas, Selenium, Numpy, Matplotlib, Seaborn, Scikit-learn,...<br>
 Goal: Apply the knowledge of data science to solve real-world problems.   
   </span>
   
+ádfasdf
+ádfasdf
+ádfasdfadsf
